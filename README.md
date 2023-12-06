@@ -60,8 +60,8 @@ Pronto para inovar e criar! Disponível para conversar e transformar suas ideias
 
 
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunodeAlmeida2023&show_icons=true&theme=cobalt)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunodeAlmeida2023&layout=compact&theme=cobalt)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunodeAlmeida2023&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunodeAlmeida2023&layout=compact&theme=radical)
 
 
 
