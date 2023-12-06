@@ -8,7 +8,7 @@
 
 <h2 align="center"></h2>
 <h2 align="center">Sobre mim😊</h2>
-<p align="center">😎Estou apenas no começo da minha jornada na área de programação. Busco aprendizado e quero me profissionalizar na área como desenvolvedor back-end.!<br><br>🫡Em busca de desafios, dedico-me ao máximo para superá-los. Apaixonado por solucionar problemas e criar soluções inovadoras.!<br><br>📚Além da programação, gosto de estudar outras línguas, como inglês, e também história. Nas horas vagas, curto jogar alguns jogos e me divertir entre amigos<br><br>😌Sou uma pessoa divertida e engraçada, adoro conhecer novas pessoas e formar novas amizades.<br>
+<p align="center">😎Estou apenas no começo da minha jornada na área de programação. Busco aprendizado e quero me profissionalizar na área como desenvolvedor back-end.!<br><br>🫡Em busca de desafios, dedico-me ao máximo para superá-los. Apaixonado por solucionar problemas e criar soluções inovadoras.!<br><br>📚Além da programação, gosto de estudar outras línguas, como inglês, e também história. Nas horas vagas, curto jogar alguns jogos e me divertir entre amigos.<br><br>😌Sou uma pessoa divertida e engraçada, adoro conhecer novas pessoas e formar novas amizades.<br>
 
 
  <div align="center">
@@ -16,7 +16,7 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="47" alt="java logo"  />
   <img width="15" />
   
 </div>
@@ -51,7 +51,7 @@
 ###
 
 <br clear="both">
-<h6 align="center" style="font-size: 12px;">
+<h6 align="center" style="font-size: 22px;">
 Pronto para inovar e criar! Disponível para conversar e transformar suas ideias em projetos incríveis. Vamos juntos construir o futuro da tecnologia! 😉
 </h6>
 
