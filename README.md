@@ -4,11 +4,10 @@
 
 
 
-<h1 align="center">Seja bem-vindo ao meu portfólio 😁✌️</h1>
+<h1 align="center">Bruno de Almeida</h1>
 
 <h2 align="center"></h2>
-<h2 align="center">Sobre mim😊</h2>
-<p align="center">😎Estou apenas no começo da minha jornada na área de programação. Busco aprendizado e quero me profissionalizar na área como desenvolvedor back-end.!<br><br>🫡Em busca de desafios, dedico-me ao máximo para superá-los. Apaixonado por solucionar problemas e criar soluções inovadoras.!<br><br>📚Além da programação, gosto de estudar outras línguas, como inglês, e também história. Nas horas vagas, curto jogar alguns jogos e me divertir entre amigos.<br><br>😌Sou uma pessoa divertida e engraçada, adoro conhecer novas pessoas e formar novas amizades.<br>
+<p align="center">Developer Full Stack in Ruby on Rails♦️<br>
 
 
  <div align="center">
