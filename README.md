@@ -1,55 +1,30 @@
-![image](https://github.com/user-attachments/assets/25028c34-4487-4fc5-ba6e-8f2591dfe58f)
-
-
-
-
-
 <h1 align="center">Bruno de Almeida</h1>
 
 <h2 align="center"></h2>
-<p align="center">Developer Full Stack in Ruby on Rails♦️<br>
+<p align="center">Developer Full Stack in Ruby on Rails♦️</p>
 
-
- <div align="center">
-  <img src="https://images.vexels.com/media/users/3/166485/isolated/preview/d4061b653e6ba02ad0afdc79e0315a25-icone-da-linguagem-de-programacao-ruby.png" height="40" alt="Ts logo"  />
+<div align="center">
+  <img src="https://images.vexels.com/media/users/3/166485/isolated/preview/d4061b653e6ba02ad0afdc79e0315a25-icone-da-linguagem-de-programacao-ruby.png" height="40" alt="Ruby logo" />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring logo" />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="47" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="47" alt="Java logo" />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="15" />
-  
-</div>
- 
-          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo" />
 </div>
 
 <h2 align="center"></h2>
 
-<div align="center">
-  <a href="https://api.whatsapp.com/send?phone=554699776924" target="_blank"><img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo" /></a>
-</div>
+<br clear="both" />
 
-
-
-
-###
-
-<br clear="both">
 <h6 align="center" style="font-size: 22px;">
-Pronto para inovar e criar! Disponível para conversar e transformar suas ideias em projetos incríveis. Vamos juntos construir o futuro da tecnologia! 😉
+  Pronto para inovar e criar! Disponível para conversar e transformar suas ideias em projetos incríveis. Vamos juntos construir o futuro da tecnologia! 😉
 </h6>
 
 <h2 align="center"></h2>
 <h2 align="center"></h2>
 
-
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunodeAlmeida2023&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunodeAlmeida2023&layout=compact&theme=radical)
-
-
-
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BrunodeAlmeida2023&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunodeAlmeida2023&layout=compact&theme=radical" alt="Top Languages" />
+</p>
